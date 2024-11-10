@@ -1,3 +1,2 @@
-# modulo2
-desafios latam
-primer desafio: sistema de mensajeria -flexbox
+# Desafio 1
+sistema de mensajeria -flexbox
